@@ -18,4 +18,4 @@ Sequence:
 To-do (v1.1)
 
     1. http hosting network
-    2. a library file allow user to call
+    2. an API interface.
